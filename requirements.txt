@@ -1,4 +1,12 @@
+# data viz
 numpy
+matplotlib
 plotly
+seaborn
 pandas
-Scipy
+bs4
+bokeh
+
+# machine learning
+scikit-learn
+scipy
